@@ -4,7 +4,7 @@
 % Part b) NB GDA
 % Part c) NB BDA
 % Part d) QDA
-%% ==================== Part 1: Initializing ====================
+%% ==================== Part 1: Initializing ===================
 clc
 clear all;
 
